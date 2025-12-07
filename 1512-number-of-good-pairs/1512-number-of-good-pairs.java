@@ -12,8 +12,18 @@ class Solution {
             }
         }
         return count;
-        
 
+        // int n = nums.length;
+        // int count = 0;
+        // Map<Integer,Integer> map = new HashMap<>();
+        // for(int num : nums){
+        //     map.put(num,map.getOrDefault(num,0) + 1);
+        // }
+        // for(int val : map.values()){
+        //     count += (val * (val - 1)) / 2;
+        // }
+        // return count;
+        
         // int n = nums.length;
         // int count = 0;
         // for(int i = 0;i<n-1;i++){
