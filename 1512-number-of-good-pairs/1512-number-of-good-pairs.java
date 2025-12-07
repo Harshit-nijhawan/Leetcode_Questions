@@ -4,10 +4,12 @@ class Solution {
         int count = 0;
         Map<Integer,Integer> map = new HashMap<>();
         for(int num : nums){
-            map.put(num,map.getOrDefault(num,0) + 1);
-        }
-        for(int val : map.values()){
-            count += (val * (val - 1)) / 2;
+            if(!map.containsKey(num)){
+                map.put(num,1);
+            }else{
+                count += map.get(num);
+                map.put(num,map.get(num) + 1);
+            }
         }
         return count;
         
