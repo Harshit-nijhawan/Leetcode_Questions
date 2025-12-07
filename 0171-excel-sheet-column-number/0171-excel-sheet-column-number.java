@@ -8,9 +8,7 @@ class Solution {
             result = result * 26 + value;
         }
         return result;
-
-
-
+        
         // if(s == null) return -1;
         // int sum = 0;
         // for(char c : s.toCharArray()){
