@@ -22,9 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
