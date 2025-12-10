@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0509-fibonacci-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1925-count-square-sum-triples) |
@@ -72,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
