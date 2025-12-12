@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3583-count-special-triplets](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3583-count-special-triplets) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 ## Combinatorics
 |  |
@@ -102,8 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
