@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3606-coupon-code-validator) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3606-coupon-code-validator) |
 ## Combinatorics
 |  |
