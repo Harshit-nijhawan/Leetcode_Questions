@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0509-fibonacci-number) |
