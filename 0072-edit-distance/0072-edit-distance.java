@@ -16,7 +16,7 @@ class Solution {
             return s1.length() - i;
         }
         if(s1.charAt(i) == s2.charAt(j)){
-            return solve(s1,s2,i+1,j+1,dp);
+            return dp[i][j] = solve(s1,s2,i+1,j+1,dp);
         }
         if(dp[i][j] != -1) return dp[i][j];
         int insert = 1 + solve(s1,s2,i,j+1,dp);
