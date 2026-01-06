@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0213-house-robber-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -165,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
