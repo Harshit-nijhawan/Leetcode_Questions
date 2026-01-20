@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
