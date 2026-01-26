@@ -4,10 +4,10 @@ class Solution {
         int min = Integer.MAX_VALUE;
         List<List<Integer>> list = new ArrayList<>();
         for(int i = 0;i<arr.length-1;i++){
-            min = Math.min(min,Math.abs(arr[i]-arr[i+1]));
+            min = Math.min(min,arr[i+1]-arr[i]);
         }
         for(int i = 0;i<arr.length-1;i++){
-            if(Math.abs(arr[i]-arr[i+1]) == min){
+            if(arr[i+1]-arr[i] == min){
                 list.add(Arrays.asList(arr[i],arr[i+1]));
             }
         }
