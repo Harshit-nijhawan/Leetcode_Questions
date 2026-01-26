@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1200-minimum-absolute-difference](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
+| [1200-minimum-absolute-difference](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
