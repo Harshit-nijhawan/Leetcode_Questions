@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
