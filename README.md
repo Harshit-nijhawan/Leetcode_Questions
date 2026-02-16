@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Stack
 |  |
