@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0072-edit-distance) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0198-house-robber) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
