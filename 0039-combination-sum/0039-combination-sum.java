@@ -7,6 +7,7 @@ class Solution {
     }
     public void fun(int[] candidates,int target,int i,ArrayList<Integer> list,int sum){
         if(sum == target){
+            System.out.println(list);
             ans.add(new ArrayList<>(list));
             return;
         }
