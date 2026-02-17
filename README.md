@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
