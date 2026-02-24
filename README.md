@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
