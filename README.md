@@ -273,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
