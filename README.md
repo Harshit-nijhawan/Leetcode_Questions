@@ -214,10 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -279,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
