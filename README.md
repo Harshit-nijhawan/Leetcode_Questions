@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Design
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Union-Find
 |  |
