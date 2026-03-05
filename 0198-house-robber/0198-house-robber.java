@@ -1,15 +1,16 @@
 class Solution {
     public int rob(int[] nums) {
-        int dp[] = new int[nums.length];
-        Arrays.fill(dp,-1);
-        return helper(nums,0,nums.length,dp);
-    }
-    public int helper(int nums[],int st,int n,int dp[]){
-        if(st >= n) return 0;
-        if(dp[st] != -1) return dp[st];
-        int take = nums[st] + helper(nums,st+2,n,dp);
-        int notTake = helper(nums,st+1,n,dp);
+        int house[] = new int[nums.length+1];
+        house[0] = 0;
+        house[1] = nums[0];
+        for(int i = 2;i<=nums.length;i++){
+            int take = nums[i-1] + house[i-2];
+            int notTake = house[i-1];
 
-        return dp[st] = Math.max(take,notTake);
+            house[i] = Math.max(take,notTake);
+        }
+
+        return house[nums.length];
+
     }
 }
