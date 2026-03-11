@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0190-reverse-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1009-complement-of-base-10-integer) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Stack
 |  |
