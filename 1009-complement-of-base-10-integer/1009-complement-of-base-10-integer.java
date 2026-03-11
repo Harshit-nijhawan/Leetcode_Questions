@@ -7,7 +7,7 @@ class Solution {
         while(n > 0){
             int bit = n % 2;
             if(bit == 0){
-                ans += Math.pow(2,i);
+                ans += (1 << i);
             }
             i++;
             n /= 2;
