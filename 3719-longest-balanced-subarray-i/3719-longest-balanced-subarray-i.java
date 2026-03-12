@@ -1,10 +1,12 @@
 class Solution {
     public int longestBalanced(int[] nums) {
-        HashSet<Integer> even = new HashSet<>();
-        HashSet<Integer> odd = new HashSet<>();
+        
+        
         int n = nums.length;
         int ans = 0;
         for(int i = 0;i<n;i++){
+            HashSet<Integer> even = new HashSet<>();
+            HashSet<Integer> odd = new HashSet<>();
             for(int j = i;j<n;j++){
                 if(nums[j] % 2 == 0){
                     even.add(nums[j]);
@@ -16,8 +18,8 @@ class Solution {
                     ans = Math.max(ans,j - i + 1);
                 }
             }
-            even.clear();
-            odd.clear();
+            // even.clear();
+            // odd.clear();
         }
         return ans;
     }
