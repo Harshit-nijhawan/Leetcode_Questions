@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1920-build-array-from-permutation](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1200-minimum-absolute-difference](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Design
