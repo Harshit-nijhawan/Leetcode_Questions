@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0584-find-customer-referee) |
