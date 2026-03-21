@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Design
 |  |
 | ------- |
