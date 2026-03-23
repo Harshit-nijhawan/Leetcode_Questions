@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1833-maximum-ice-cream-bars](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1200-minimum-absolute-difference](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1833-maximum-ice-cream-bars](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
