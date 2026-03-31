@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
