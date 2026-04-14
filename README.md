@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
