@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1925-count-square-sum-triples) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
 |  |
