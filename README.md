@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1392-longest-happy-prefix) |
+| [1544-make-the-string-great](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0020-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1544-make-the-string-great) |
 ## Binary Search
 |  |
 | ------- |
