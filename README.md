@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
