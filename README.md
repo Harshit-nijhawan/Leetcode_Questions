@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3606-coupon-code-validator](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3606-coupon-code-validator) |
 ## Enumeration
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Counting Sort
 |  |
 | ------- |
