@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3634-minimum-removals-to-balance-array) |
