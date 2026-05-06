@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0198-house-robber) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3719-longest-balanced-subarray-i) |
@@ -371,10 +373,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Linked List
 |  |
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1833-maximum-ice-cream-bars) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
