@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0295-find-median-from-data-stream) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0190-reverse-bits) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
@@ -438,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
