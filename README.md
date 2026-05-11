@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1920-build-array-from-permutation) |
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
