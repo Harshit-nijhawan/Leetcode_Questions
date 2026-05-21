@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0695-max-area-of-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0695-max-area-of-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
