@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2352-equal-row-and-column-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3606-coupon-code-validator](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/3612-process-string-with-special-operations-i) |
 ## Enumeration
 |  |
 | ------- |
