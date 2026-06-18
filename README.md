@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0509-fibonacci-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
