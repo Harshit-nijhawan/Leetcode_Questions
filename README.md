@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/2540-minimum-common-value) |
