@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
