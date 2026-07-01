@@ -10,6 +10,5 @@ class Solution {
             if(arr[i] != 0) return false;
         }
         return true;
-
     }
 }
