@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0875-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
+| [1331-rank-transform-of-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/0846-hand-of-straights) |
 | [1200-minimum-absolute-difference](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harshit-nijhawan/Leetcode_Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
